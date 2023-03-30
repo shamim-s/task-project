@@ -1,6 +1,6 @@
 ### Infinite Scroll
 
-##features: 
+features: 
 *User Login
 *Private / protected route
 *Infinite Scroll
